@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Corporal indice</string>
+    <string name="altura">heigh</string>
+    <string name="peso">weight</string>
+    <string name="PesoBajo">Low weight:</string>
+    <string name="calcular">Calculate</string>
+    <string name="resultado">Solution</string>
+    <string name="pesobajonormal">Normal low weightl</string>
+    <string name="sobrepeso">Very fat</string>
+    <string name="Salir">Out</string>
+    <string name="acercade"> About</string>
+
+
+</resources>

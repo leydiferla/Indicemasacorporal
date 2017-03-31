@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Indicemasacorporal</string>
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="PesoBajo">Peso bajo:</string>
+    <string name="title_activity_acercade">Acercade</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="pesobajonormal">Peso bajo normal</string>
+    <string name="sobrepeso">Sobre peso</string>
+    <string name="Salir">Salir</string>
+    <string name="acercade">AcercaDe</string>
+
+
+</resources>
